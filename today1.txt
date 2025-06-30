@@ -2,3 +2,4 @@ Kafka data warehouse
 Aws Glue Athena(query Editor)
 Redshift A ws data warehouse
 salesforce
+def fun(): bcz prachee said
